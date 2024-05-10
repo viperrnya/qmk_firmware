@@ -115,7 +115,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_GRV,  KC_EXLM, KC_AT,   KC_HASH, KC_DLR,  KC_PERC, KC_CIRC, KC_AMPR,    KC_ASTR,    KC_LPRN,    KC_RPRN,    KC_BSPC,
     KC_DEL,  KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,   KC_F6,   KC_UNDS,    KC_PAST,    KC_MINS,    ALGR(HR_7), KC_TILD,
     KC_LSFT, KC_F7,   KC_F8,   KC_F9,   KC_F10,  KC_F11,  KC_F12,  KC_PPLS,    ALGR(HR_V), KC_PGUP,    KC_PGDN,    KC_MPLY,
-    KC_LCTL, KC_RALT, KC_LGUI, KC_LALT, _______, _______, _______, _______,    ALGR(HR_Q), ALGR(HR_W), KC_MPRV,    KC_MNXT
+    KC_LCTL, KC_RALT, KC_LGUI, KC_LALT, _______, _______, _______, _______,    ALGR(HR_W), ALGR(HR_Q), KC_MPRV,    KC_MNXT
 ),
 
 /* Plover layer (http://opensteno.org)
